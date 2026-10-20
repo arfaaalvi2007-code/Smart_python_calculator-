@@ -1,4 +1,4 @@
-# Simple Python Calculator Project for Beginners
+# Smart_python_calculator
 
 def add(x, y):
     return x + y
