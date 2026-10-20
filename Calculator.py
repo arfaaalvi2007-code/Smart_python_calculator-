@@ -1,6 +1,6 @@
 # Smart_python_calculator
 
-print("--- Calculator Menu ---")
+```print("--- Calculator Menu ---")
 print("1. Add")
 print("2. Subtract")
 print("3. Multiply")
@@ -31,4 +31,4 @@ elif choice == "4":
         print("Result:", result)
 
 else:
-    print("Invalid Selection")
+    print("Invalid Selection")```
