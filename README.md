@@ -1,8 +1,8 @@
-# 📱 Simple Python Calculator
+#  Simple Python Calculator
 
 Welcome to my repository! This is a simple, terminal-based calculator script built by **Arfa Zahid** using Python 3 to process basic arithmetic operations.
 
-## 👩‍💻 My Motivation
+## My Motivation
 
 As an Intermediate Computer Science student, I wanted to step outside my textbook theoretical syllabus and build something practical. Programming is a major interest of mine, and this project allowed me to get hands-on experience with user input handling, conditional logic structures, and source control management using GitHub.
 
@@ -14,7 +14,7 @@ Through this project, I focused on learning:
 
 ---
 
-## 🚀 Features of the Calculator
+## Features of the Calculator
 
 - **Sequential Control Menu:** Automatically displays an easy-to-use operation layout (1 to 4) right in the terminal window.
 - **Arithmetic Safety Trap:** Integrates specific conditional verification to capture division by zero (`num2 == 0`) and returns an error state instead of crashing.
@@ -22,7 +22,7 @@ Through this project, I focused on learning:
 
 ---
 
-## 🛠 Tools Used
+##  Tools Used
 
 - **Language Core:** Python 3.x
 - **Platform:** Hosted publicly on GitHub to practice active open-source contribution patterns
